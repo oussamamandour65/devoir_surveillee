@@ -1,0 +1,5 @@
+input BookRequest{
+    titre : String
+    publisher : String
+    resume : String
+}
